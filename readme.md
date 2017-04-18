@@ -1,5 +1,10 @@
 ## THIS IS A FORK FROM https://github.com/DmitryLanda/phpstorm-monokai
-#### This version supports Objective-C (for AppCode), Java (for IntelliJ IDEA), Ruby (for RubyMine, even though it already has a Monokai color scheme), and has better PHP support (PhpStorm)
+
+点击右边的下载ZIP文件即可。解压之后，会得到一个Monokai-Sublime.jar文件，这个文件就是配色的打包文件，可以使用 webstorm 导入即可。打开菜单：
+
+file-->import Settings
+选择 Import Settings，然后选择刚才下载的Monokai-Sublime.jar文件，然后最后导入即可。
+
 
 This is a port of the Monokai theme from Sublime Text 2 to IntelliJ IDEA-based IDEs. It looks a bit like this:
 
